@@ -1,0 +1,626 @@
+============================================================
+Time  2023/07/13 23:10:40 084 
+============================================================
+[2023/07/13 23:10:40 084] tts_purext 1581 Linux  
+[2023/07/13 23:10:40 084] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:10:40 084] tts_purext 1632 last gc at  1689315040  
+[2023/07/13 23:10:40 084] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:10:40 084] tts_purext 1632 last gc at  1689315040  
+[2023/07/13 23:10:40 084] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  14725807  
+[2023/07/13 23:10:40 084] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:10:40 084] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:10:40 084] tts_purext 1316 nil  
+[2023/07/13 23:10:40 084] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:10:40 084] tts_purext 678  Disperse res  
+[2023/07/13 23:10:40 084] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:10:40 084] tts_purext 1320 res_change is  true  
+[2023/07/13 23:10:40 084] tts_purext 1336 res change  
+[2023/07/13 23:10:40 084] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:10:40 084] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:10:40 084] tts_purext 678  Disperse res  
+[2023/07/13 23:10:40 084] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:10:40 084] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:10:40 084] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:10:40 084] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:10:40 084] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:10:40 084] tts_purext 844  res_mark  nil  
+[2023/07/13 23:10:40 084] tts_purext 845  check ret  10116  
+[2023/07/13 23:10:40 084] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:10:40 084] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:10:40 085] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:10:40 085] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:10:40 085] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:10:40 085] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:10:40 085] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:10:40 085] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:10:40 085] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:10:40 085] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:10:40 086] tts_purext 1632 last gc at  1689315040  
+============================================================
+Time  2023/07/13 23:11:23 413 
+============================================================
+[2023/07/13 23:11:23 413] tts_purext 1581 Linux  
+[2023/07/13 23:11:23 413] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:11:23 413] tts_purext 1632 last gc at  1689315083  
+[2023/07/13 23:11:23 413] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:11:23 413] tts_purext 1632 last gc at  1689315083  
+[2023/07/13 23:11:23 413] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  14769137  
+[2023/07/13 23:11:23 413] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:11:23 413] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:11:23 413] tts_purext 1316 nil  
+[2023/07/13 23:11:23 413] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:11:23 413] tts_purext 678  Disperse res  
+[2023/07/13 23:11:23 414] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:11:23 414] tts_purext 1320 res_change is  true  
+[2023/07/13 23:11:23 414] tts_purext 1336 res change  
+[2023/07/13 23:11:23 414] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:11:23 414] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:11:23 414] tts_purext 678  Disperse res  
+[2023/07/13 23:11:23 414] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:11:23 414] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:11:23 414] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:11:23 414] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:11:23 414] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:11:23 414] tts_purext 844  res_mark  nil  
+[2023/07/13 23:11:23 414] tts_purext 845  check ret  10116  
+[2023/07/13 23:11:23 414] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:11:23 414] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:11:23 414] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:11:23 414] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:11:23 414] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:11:23 414] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:11:23 414] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:11:23 416] tts_purext 1632 last gc at  1689315083  
+============================================================
+Time  2023/07/13 23:13:57 648 
+============================================================
+[2023/07/13 23:13:57 648] tts_purext 1581 Linux  
+[2023/07/13 23:13:57 648] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:13:57 648] tts_purext 1632 last gc at  1689315237  
+[2023/07/13 23:13:57 649] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:13:57 649] tts_purext 1632 last gc at  1689315237  
+[2023/07/13 23:13:57 649] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  14923370  
+[2023/07/13 23:13:57 649] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:13:57 649] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:13:57 649] tts_purext 1316 nil  
+[2023/07/13 23:13:57 649] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:13:57 650] tts_purext 678  Disperse res  
+[2023/07/13 23:13:57 650] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:13:57 650] tts_purext 1320 res_change is  true  
+[2023/07/13 23:13:57 650] tts_purext 1336 res change  
+[2023/07/13 23:13:57 650] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:13:57 650] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:13:57 650] tts_purext 678  Disperse res  
+[2023/07/13 23:13:57 650] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:13:57 650] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:13:57 650] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:13:57 650] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:13:57 650] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:13:57 651] tts_purext 844  res_mark  nil  
+[2023/07/13 23:13:57 651] tts_purext 845  check ret  10116  
+[2023/07/13 23:13:57 651] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:13:57 651] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:13:57 651] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:13:57 651] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:13:57 651] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:13:57 651] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:13:57 651] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:13:57 652] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:13:57 652] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:13:57 652] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:13:57 653] tts_purext 1632 last gc at  1689315237  
+============================================================
+Time  2023/07/13 23:15:37 503 
+============================================================
+[2023/07/13 23:15:37 503] tts_purext 1581 Linux  
+[2023/07/13 23:15:37 503] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:15:37 504] tts_purext 1632 last gc at  1689315337  
+[2023/07/13 23:15:37 504] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:15:37 504] tts_purext 1632 last gc at  1689315337  
+[2023/07/13 23:15:37 504] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  15023226  
+[2023/07/13 23:15:37 504] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:15:37 504] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:15:37 504] tts_purext 1316 nil  
+[2023/07/13 23:15:37 504] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:15:37 504] tts_purext 678  Disperse res  
+[2023/07/13 23:15:37 505] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:15:37 505] tts_purext 1320 res_change is  true  
+[2023/07/13 23:15:37 505] tts_purext 1336 res change  
+[2023/07/13 23:15:37 505] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:15:37 505] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:15:37 505] tts_purext 678  Disperse res  
+[2023/07/13 23:15:37 505] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:15:37 505] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:15:37 505] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:15:37 505] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:15:37 505] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:15:37 505] tts_purext 844  res_mark  nil  
+[2023/07/13 23:15:37 505] tts_purext 845  check ret  10116  
+[2023/07/13 23:15:37 505] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:15:37 506] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:15:37 506] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:15:37 506] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:15:37 506] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:15:37 506] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:15:37 506] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:15:37 507] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:15:37 507] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:15:37 507] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:15:37 508] tts_purext 1632 last gc at  1689315337  
+============================================================
+Time  2023/07/13 23:16:20 482 
+============================================================
+[2023/07/13 23:16:20 482] tts_purext 1581 Linux  
+[2023/07/13 23:16:20 482] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:16:20 482] tts_purext 1632 last gc at  1689315380  
+[2023/07/13 23:16:20 482] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:16:20 482] tts_purext 1632 last gc at  1689315380  
+[2023/07/13 23:16:20 482] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  15066205  
+[2023/07/13 23:16:20 482] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:16:20 482] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:16:20 482] tts_purext 1316 nil  
+[2023/07/13 23:16:20 482] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:16:20 482] tts_purext 678  Disperse res  
+[2023/07/13 23:16:20 482] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:16:20 482] tts_purext 1320 res_change is  true  
+[2023/07/13 23:16:20 482] tts_purext 1336 res change  
+[2023/07/13 23:16:20 482] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:16:20 482] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:16:20 482] tts_purext 678  Disperse res  
+[2023/07/13 23:16:20 482] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:16:20 482] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:16:20 482] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:16:20 482] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:16:20 482] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:16:20 482] tts_purext 844  res_mark  nil  
+[2023/07/13 23:16:20 482] tts_purext 845  check ret  10116  
+[2023/07/13 23:16:20 482] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:16:20 482] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:16:20 482] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:16:20 482] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:16:20 483] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:16:20 483] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:16:20 483] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:16:20 484] tts_purext 1632 last gc at  1689315380  
+============================================================
+Time  2023/07/13 23:24:36 250 
+============================================================
+[2023/07/13 23:24:36 250] tts_purext 1581 Linux  
+[2023/07/13 23:24:36 250] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:24:36 250] tts_purext 1632 last gc at  1689315876  
+[2023/07/13 23:24:36 250] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:24:36 250] tts_purext 1632 last gc at  1689315876  
+[2023/07/13 23:24:36 250] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  15561973  
+[2023/07/13 23:24:36 250] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:24:36 250] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:24:36 250] tts_purext 1316 nil  
+[2023/07/13 23:24:36 250] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:24:36 250] tts_purext 678  Disperse res  
+[2023/07/13 23:24:36 250] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:24:36 250] tts_purext 1320 res_change is  true  
+[2023/07/13 23:24:36 250] tts_purext 1336 res change  
+[2023/07/13 23:24:36 250] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:24:36 250] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:24:36 250] tts_purext 678  Disperse res  
+[2023/07/13 23:24:36 250] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:24:36 250] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:24:36 250] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:24:36 250] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:24:36 251] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:24:36 251] tts_purext 844  res_mark  nil  
+[2023/07/13 23:24:36 251] tts_purext 845  check ret  10116  
+[2023/07/13 23:24:36 251] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:24:36 251] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:24:36 251] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:24:36 251] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:24:36 251] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:24:36 251] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:24:36 251] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:24:36 252] tts_purext 1632 last gc at  1689315876  
+============================================================
+Time  2023/07/13 23:31:56 437 
+============================================================
+[2023/07/13 23:31:56 437] tts_purext 1581 Linux  
+[2023/07/13 23:31:56 437] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:31:56 437] tts_purext 1632 last gc at  1689316316  
+[2023/07/13 23:31:56 438] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:31:56 438] tts_purext 1632 last gc at  1689316316  
+[2023/07/13 23:31:56 438] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  16002161  
+[2023/07/13 23:31:56 438] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:31:56 438] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:31:56 438] tts_purext 1316 nil  
+[2023/07/13 23:31:56 438] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:31:56 438] tts_purext 678  Disperse res  
+[2023/07/13 23:31:56 438] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:31:56 438] tts_purext 1320 res_change is  true  
+[2023/07/13 23:31:56 438] tts_purext 1336 res change  
+[2023/07/13 23:31:56 438] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:31:56 438] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:31:56 438] tts_purext 678  Disperse res  
+[2023/07/13 23:31:56 438] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:31:56 438] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:31:56 438] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:31:56 438] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:31:56 438] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:31:56 438] tts_purext 844  res_mark  nil  
+[2023/07/13 23:31:56 438] tts_purext 845  check ret  10116  
+[2023/07/13 23:31:56 438] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:31:56 438] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:31:56 438] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:31:56 438] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:31:56 439] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:31:56 439] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:31:56 439] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:31:56 441] tts_purext 1632 last gc at  1689316316  
+============================================================
+Time  2023/07/13 23:35:00 134 
+============================================================
+[2023/07/13 23:35:00 134] tts_purext 1581 Linux  
+[2023/07/13 23:35:00 134] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:35:00 134] tts_purext 1632 last gc at  1689316500  
+[2023/07/13 23:35:00 134] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:35:00 134] tts_purext 1632 last gc at  1689316500  
+[2023/07/13 23:35:00 134] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  16185857  
+[2023/07/13 23:35:00 134] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:35:00 134] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:35:00 134] tts_purext 1316 nil  
+[2023/07/13 23:35:00 134] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:35:00 134] tts_purext 678  Disperse res  
+[2023/07/13 23:35:00 134] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:35:00 134] tts_purext 1320 res_change is  true  
+[2023/07/13 23:35:00 134] tts_purext 1336 res change  
+[2023/07/13 23:35:00 134] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:35:00 134] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:35:00 134] tts_purext 678  Disperse res  
+[2023/07/13 23:35:00 134] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:35:00 134] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:35:00 134] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:35:00 134] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:35:00 134] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:35:00 134] tts_purext 844  res_mark  nil  
+[2023/07/13 23:35:00 134] tts_purext 845  check ret  10116  
+[2023/07/13 23:35:00 134] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:35:00 134] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:35:00 134] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:35:00 134] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:35:00 135] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:35:00 135] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:35:00 135] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:35:00 136] tts_purext 1632 last gc at  1689316500  
+============================================================
+Time  2023/07/13 23:35:21 672 
+============================================================
+[2023/07/13 23:35:21 672] tts_purext 1581 Linux  
+[2023/07/13 23:35:21 672] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:35:21 672] tts_purext 1632 last gc at  1689316521  
+[2023/07/13 23:35:21 672] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:35:21 672] tts_purext 1632 last gc at  1689316521  
+[2023/07/13 23:35:21 673] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  16207395  
+[2023/07/13 23:35:21 673] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:35:21 673] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:35:21 673] tts_purext 1316 nil  
+[2023/07/13 23:35:21 673] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:35:21 673] tts_purext 678  Disperse res  
+[2023/07/13 23:35:21 673] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:35:21 673] tts_purext 1320 res_change is  true  
+[2023/07/13 23:35:21 673] tts_purext 1336 res change  
+[2023/07/13 23:35:21 673] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:35:21 673] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:35:21 673] tts_purext 678  Disperse res  
+[2023/07/13 23:35:21 673] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:35:21 673] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:35:21 674] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:35:21 674] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:35:21 674] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:35:21 674] tts_purext 844  res_mark  nil  
+[2023/07/13 23:35:21 674] tts_purext 845  check ret  10116  
+[2023/07/13 23:35:21 674] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:35:21 674] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:35:21 674] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:35:21 674] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:35:21 674] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:35:21 675] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:35:21 675] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:35:21 675] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:35:21 675] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:35:21 675] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:35:21 676] tts_purext 1632 last gc at  1689316521  
+============================================================
+Time  2023/07/13 23:36:02 414 
+============================================================
+[2023/07/13 23:36:02 414] tts_purext 1581 Linux  
+[2023/07/13 23:36:02 414] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:36:02 414] tts_purext 1632 last gc at  1689316562  
+[2023/07/13 23:36:02 414] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:36:02 414] tts_purext 1632 last gc at  1689316562  
+[2023/07/13 23:36:02 414] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  16248134  
+[2023/07/13 23:36:02 415] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:36:02 415] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:36:02 415] tts_purext 1316 nil  
+[2023/07/13 23:36:02 415] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:36:02 415] tts_purext 678  Disperse res  
+[2023/07/13 23:36:02 415] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:36:02 415] tts_purext 1320 res_change is  true  
+[2023/07/13 23:36:02 415] tts_purext 1336 res change  
+[2023/07/13 23:36:02 415] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:36:02 415] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:36:02 415] tts_purext 678  Disperse res  
+[2023/07/13 23:36:02 415] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:36:02 416] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:36:02 416] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:36:02 416] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:36:02 416] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:36:02 416] tts_purext 844  res_mark  nil  
+[2023/07/13 23:36:02 416] tts_purext 845  check ret  10116  
+[2023/07/13 23:36:02 416] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:36:02 416] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:36:02 416] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:36:02 416] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:36:02 417] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:36:02 417] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:36:02 417] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:36:02 418] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:36:02 418] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:36:02 418] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:36:02 419] tts_purext 1632 last gc at  1689316562  
+============================================================
+Time  2023/07/13 23:39:24 166 
+============================================================
+[2023/07/13 23:39:24 166] tts_purext 1581 Linux  
+[2023/07/13 23:39:24 166] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:39:24 166] tts_purext 1632 last gc at  1689316764  
+[2023/07/13 23:39:24 166] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:39:24 166] tts_purext 1632 last gc at  1689316764  
+[2023/07/13 23:39:24 166] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  16449889  
+[2023/07/13 23:39:24 166] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:39:24 166] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:39:24 166] tts_purext 1316 nil  
+[2023/07/13 23:39:24 166] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:39:24 166] tts_purext 678  Disperse res  
+[2023/07/13 23:39:24 166] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:39:24 166] tts_purext 1320 res_change is  true  
+[2023/07/13 23:39:24 166] tts_purext 1336 res change  
+[2023/07/13 23:39:24 166] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:39:24 166] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:39:24 166] tts_purext 678  Disperse res  
+[2023/07/13 23:39:24 166] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:39:24 166] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:39:24 167] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:39:24 167] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:39:24 167] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:39:24 167] tts_purext 844  res_mark  nil  
+[2023/07/13 23:39:24 167] tts_purext 845  check ret  10116  
+[2023/07/13 23:39:24 167] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:39:24 167] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:39:24 167] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:39:24 167] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:39:24 167] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:39:24 167] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:39:24 167] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:39:24 169] tts_purext 1632 last gc at  1689316764  
+============================================================
+Time  2023/07/13 23:56:33 684 
+============================================================
+[2023/07/13 23:56:33 684] tts_purext 1581 Linux  
+[2023/07/13 23:56:33 684] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:56:33 684] tts_purext 1632 last gc at  1689317793  
+[2023/07/13 23:56:33 685] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:56:33 685] tts_purext 1632 last gc at  1689317793  
+[2023/07/13 23:56:33 685] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  17479407  
+[2023/07/13 23:56:33 685] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:56:33 685] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:56:33 685] tts_purext 1316 nil  
+[2023/07/13 23:56:33 685] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:56:33 685] tts_purext 678  Disperse res  
+[2023/07/13 23:56:33 685] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:56:33 685] tts_purext 1320 res_change is  true  
+[2023/07/13 23:56:33 686] tts_purext 1336 res change  
+[2023/07/13 23:56:33 686] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:56:33 686] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:56:33 686] tts_purext 678  Disperse res  
+[2023/07/13 23:56:33 686] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:56:33 686] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:56:33 686] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:56:33 686] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:56:33 686] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:56:33 686] tts_purext 844  res_mark  nil  
+[2023/07/13 23:56:33 687] tts_purext 845  check ret  10116  
+[2023/07/13 23:56:33 687] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:56:33 687] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:56:33 687] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:56:33 687] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:56:33 687] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:56:33 687] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:56:33 687] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:56:33 688] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:56:33 688] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:56:33 688] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:56:33 689] tts_purext 1632 last gc at  1689317793  
+============================================================
+Time  2023/07/13 23:57:11 602 
+============================================================
+[2023/07/13 23:57:11 602] tts_purext 1581 Linux  
+[2023/07/13 23:57:11 602] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:57:11 602] tts_purext 1632 last gc at  1689317831  
+[2023/07/13 23:57:11 602] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:57:11 602] tts_purext 1632 last gc at  1689317831  
+[2023/07/13 23:57:11 602] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  17518125  
+[2023/07/13 23:57:11 602] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:57:11 602] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:57:11 602] tts_purext 1316 nil  
+[2023/07/13 23:57:11 602] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:57:11 602] tts_purext 678  Disperse res  
+[2023/07/13 23:57:11 602] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:57:11 602] tts_purext 1320 res_change is  true  
+[2023/07/13 23:57:11 602] tts_purext 1336 res change  
+[2023/07/13 23:57:11 602] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:57:11 602] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:57:11 602] tts_purext 678  Disperse res  
+[2023/07/13 23:57:11 602] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:57:11 602] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:57:11 602] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:57:11 602] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:57:11 602] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:57:11 602] tts_purext 844  res_mark  nil  
+[2023/07/13 23:57:11 602] tts_purext 845  check ret  10116  
+[2023/07/13 23:57:11 602] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:57:11 602] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:57:11 602] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:57:11 602] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:57:11 604] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:57:11 604] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:57:11 604] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:57:11 604] tts_purext 1632 last gc at  1689317831  
+============================================================
+Time  2023/07/13 23:58:13 146 
+============================================================
+[2023/07/13 23:58:13 146] tts_purext 1581 Linux  
+[2023/07/13 23:58:13 146] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:58:13 146] tts_purext 1632 last gc at  1689317893  
+[2023/07/13 23:58:13 146] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/13 23:58:13 146] tts_purext 1632 last gc at  1689317893  
+[2023/07/13 23:58:13 146] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  17579668  
+[2023/07/13 23:58:13 146] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/13 23:58:13 146] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:58:13 146] tts_purext 1316 nil  
+[2023/07/13 23:58:13 146] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:58:13 146] tts_purext 678  Disperse res  
+[2023/07/13 23:58:13 146] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/13 23:58:13 146] tts_purext 1320 res_change is  true  
+[2023/07/13 23:58:13 146] tts_purext 1336 res change  
+[2023/07/13 23:58:13 146] tts_purext 1142 lgi:  nil  nil  
+[2023/07/13 23:58:13 146] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/13 23:58:13 146] tts_purext 678  Disperse res  
+[2023/07/13 23:58:13 146] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/13 23:58:13 146] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/13 23:58:13 146] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/13 23:58:13 147] tts_purext 833  speech_plus_setting  0  
+[2023/07/13 23:58:13 147] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/13 23:58:13 147] tts_purext 844  res_mark  nil  
+[2023/07/13 23:58:13 147] tts_purext 845  check ret  10116  
+[2023/07/13 23:58:13 147] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/13 23:58:13 147] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/13 23:58:13 147] tts_purext 1338 reinit ret:  10116  
+[2023/07/13 23:58:13 147] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/13 23:58:13 148] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/13 23:58:13 148] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/13 23:58:13 148] tts_purext 1501 local engine unstart  24007  
+[2023/07/13 23:58:13 148] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/13 23:58:13 148] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/13 23:58:13 149] tts_purext 943  plog_process  []  nil  
+[2023/07/13 23:58:13 150] tts_purext 1632 last gc at  1689317893  
+============================================================
+Time  2023/07/14 00:00:38 920 
+============================================================
+[2023/07/14 00:00:38 920] tts_purext 1581 Linux  
+[2023/07/14 00:00:38 921] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/14 00:00:38 921] tts_purext 1632 last gc at  1689318038  
+[2023/07/14 00:00:38 921] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/14 00:00:38 921] tts_purext 1632 last gc at  1689318038  
+[2023/07/14 00:00:38 921] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  17725443  
+[2023/07/14 00:00:38 921] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/14 00:00:38 921] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/14 00:00:38 921] tts_purext 1316 nil  
+[2023/07/14 00:00:38 921] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/14 00:00:38 921] tts_purext 678  Disperse res  
+[2023/07/14 00:00:38 921] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/14 00:00:38 921] tts_purext 1320 res_change is  true  
+[2023/07/14 00:00:38 922] tts_purext 1336 res change  
+[2023/07/14 00:00:38 922] tts_purext 1142 lgi:  nil  nil  
+[2023/07/14 00:00:38 922] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/14 00:00:38 922] tts_purext 678  Disperse res  
+[2023/07/14 00:00:38 922] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/14 00:00:38 922] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/14 00:00:38 922] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/14 00:00:38 922] tts_purext 833  speech_plus_setting  0  
+[2023/07/14 00:00:38 922] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/14 00:00:38 922] tts_purext 844  res_mark  nil  
+[2023/07/14 00:00:38 922] tts_purext 845  check ret  10116  
+[2023/07/14 00:00:38 922] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/14 00:00:38 923] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/14 00:00:38 923] tts_purext 1338 reinit ret:  10116  
+[2023/07/14 00:00:38 923] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/14 00:00:38 923] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/14 00:00:38 923] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/14 00:00:38 923] tts_purext 1501 local engine unstart  24007  
+[2023/07/14 00:00:38 924] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/14 00:00:38 924] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/14 00:00:38 924] tts_purext 943  plog_process  []  nil  
+[2023/07/14 00:00:38 925] tts_purext 1632 last gc at  1689318038  
+============================================================
+Time  2023/07/14 00:11:11 604 
+============================================================
+[2023/07/14 00:11:11 604] tts_purext 1581 Linux  
+[2023/07/14 00:11:11 604] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/14 00:11:11 604] tts_purext 1632 last gc at  1689318671  
+[2023/07/14 00:11:11 605] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/14 00:11:11 605] tts_purext 1632 last gc at  1689318671  
+[2023/07/14 00:11:11 605] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  18358127  
+[2023/07/14 00:11:11 605] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/14 00:11:11 605] tts_purext 1313 fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/14 00:11:11 605] tts_purext 1316 nil  
+[2023/07/14 00:11:11 605] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/14 00:11:11 605] tts_purext 678  Disperse res  
+[2023/07/14 00:11:11 605] tts_purext 793  fo|res/xtts/xiaoyan.jet  fo|res/xtts/common.jet  
+[2023/07/14 00:11:11 606] tts_purext 1320 res_change is  true  
+[2023/07/14 00:11:11 606] tts_purext 1336 res change  
+[2023/07/14 00:11:11 606] tts_purext 1142 lgi:  nil  nil  
+[2023/07/14 00:11:11 606] tts_purext 662  resource path:  fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet  
+[2023/07/14 00:11:11 606] tts_purext 678  Disperse res  
+[2023/07/14 00:11:11 606] tts_purext 652  file_type:  fo  file_path:  res/xtts/xiaoyan.jet  
+[2023/07/14 00:11:11 606] tts_purext 652  file_type:  fo  file_path:  res/xtts/common.jet  
+[2023/07/14 00:11:11 606] tts_purext 1175 fo  fo  res/xtts/common.jet  0  res/xtts/xiaoyan.jet  0  
+[2023/07/14 00:11:11 606] tts_purext 833  speech_plus_setting  0  
+[2023/07/14 00:11:11 606] tts_purext 841  fo  res/xtts/xiaoyan.jet  0  0  
+[2023/07/14 00:11:11 606] tts_purext 844  res_mark  nil  
+[2023/07/14 00:11:11 606] tts_purext 845  check ret  10116  
+[2023/07/14 00:11:11 606] tts_purext 1193 vcn res check failed:  10116  
+[2023/07/14 00:11:11 606] tts_purext 1254 init check failed! ret =  10116  
+[2023/07/14 00:11:11 607] tts_purext 1338 reinit ret:  10116  
+[2023/07/14 00:11:11 607] tts_purext 1482 tts_purextts.ssb ret:  10116  
+[2023/07/14 00:11:11 607] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/14 00:11:11 607] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/14 00:11:11 607] tts_purext 1501 local engine unstart  24007  
+[2023/07/14 00:11:11 608] tts_purext 1539 TTS_PUREXTTS_MSG_END  10116  
+[2023/07/14 00:11:11 608] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/14 00:11:11 608] tts_purext 943  plog_process  []  nil  
+[2023/07/14 00:11:11 609] tts_purext 1632 last gc at  1689318671  
+============================================================
+Time  2023/07/14 00:22:22 081 
+============================================================
+[2023/07/14 00:22:22 081] tts_purext 1581 Linux  
+[2023/07/14 00:22:22 081] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/14 00:22:22 081] tts_purext 1632 last gc at  1689319342  
+[2023/07/14 00:22:22 081] tts_purext 1617 SYS_MSG_REGCB_LOCAL  
+[2023/07/14 00:22:22 081] tts_purext 1632 last gc at  1689319342  
+[2023/07/14 00:22:22 081] tts_purext 1421 TTS_PUREXTTS_MSG_SSB  engine_type=purextts,voice_name=xiaoyan,text_encoding=UTF8,tts_res_path=fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet,sample_rate=16000,speed=50,volume=50,pitch=50,rdn=2  19028604  
+[2023/07/14 00:22:22 081] tts_purext 1479 ssb_audio_id=  1  
+[2023/07/14 00:22:22 081] tts_purext 1313 fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2023/07/14 00:22:22 081] tts_purext 1316 nil  
+[2023/07/14 00:22:22 081] tts_purext 662  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2023/07/14 00:22:22 081] tts_purext 678  Disperse res  
+[2023/07/14 00:22:22 081] tts_purext 793  fo|res/tts/xiaoyan.jet  fo|res/tts/common.jet  
+[2023/07/14 00:22:22 081] tts_purext 1320 res_change is  true  
+[2023/07/14 00:22:22 081] tts_purext 1336 res change  
+[2023/07/14 00:22:22 081] tts_purext 1142 lgi:  nil  nil  
+[2023/07/14 00:22:22 081] tts_purext 662  resource path:  fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet  
+[2023/07/14 00:22:22 081] tts_purext 678  Disperse res  
+[2023/07/14 00:22:22 081] tts_purext 652  file_type:  fo  file_path:  res/tts/xiaoyan.jet  
+[2023/07/14 00:22:22 081] tts_purext 652  file_type:  fo  file_path:  res/tts/common.jet  
+[2023/07/14 00:22:22 081] tts_purext 1175 fo  fo  res/tts/common.jet  0  res/tts/xiaoyan.jet  0  
+[2023/07/14 00:22:22 081] tts_purext 833  speech_plus_setting  0  
+[2023/07/14 00:22:22 081] tts_purext 841  fo  res/tts/xiaoyan.jet  0  0  
+[2023/07/14 00:22:22 081] tts_purext 844  res_mark  v5vn  
+[2023/07/14 00:22:22 081] tts_purext 845  check ret  0  
+[2023/07/14 00:22:22 081] tts_purext 853  v5vn  
+[2023/07/14 00:22:22 082] tts_purext 1193 vcn res check failed:  24005  
+[2023/07/14 00:22:22 082] tts_purext 1254 init check failed! ret =  24005  
+[2023/07/14 00:22:22 082] tts_purext 1338 reinit ret:  24005  
+[2023/07/14 00:22:22 082] tts_purext 1482 tts_purextts.ssb ret:  24005  
+[2023/07/14 00:22:22 083] tts_purext 1489 TTS_PUREXTTS_MSG_TEXT  
+[2023/07/14 00:22:22 083] tts_purext 1496 base64 =  5Lqy54ix55qE55So5oi377yM5oKo5aW977yM6L+Z5piv5LiA5Liq6K+t6Z+z5ZCI5oiQ56S65L6L77yM5oSf6LCi5oKo5a+556eR5aSn6K6v6aOe6K+t6Z+z5oqA5pyv55qE5pSv5oyB77yB56eR5aSn6K6v6aOe5piv5Lqa5aSq5Zyw5Yy65pyA5aSn55qE6K+t6Z+z5LiK5biC5YWs5Y+477yM6IKh56Wo5Luj56CB77yaMDAyMjMw  
+[2023/07/14 00:22:22 083] tts_purext 1501 local engine unstart  24007  
+[2023/07/14 00:22:22 083] tts_purext 1539 TTS_PUREXTTS_MSG_END  24005  
+[2023/07/14 00:22:22 084] tts_purext 1553 engine_obj not started successfuly!  
+[2023/07/14 00:22:22 084] tts_purext 943  plog_process  []  nil  
+[2023/07/14 00:22:22 086] tts_purext 1632 last gc at  1689319342  

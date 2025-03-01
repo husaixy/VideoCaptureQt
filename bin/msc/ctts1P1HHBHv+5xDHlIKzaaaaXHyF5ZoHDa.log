@@ -1,0 +1,30 @@
+============================================================
+Time  2023/07/14 00:22:22 077 
+============================================================
+[2023/07/14 00:22:22 077] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(d40167f0) 
+[2023/07/14 00:22:22 077] config     43   use general cloud  
+[2023/07/14 00:22:22 079] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(d40167f0) 
+[2023/07/14 00:22:22 079] tts        782  TTS_MSG_SSB  
+[2023/07/14 00:22:22 079] tts        434  params =  engine_type = purextts,voice_name=xiaoyan, text_encoding = UTF8, tts_res_path = fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet, sample_rate = 16000, speed = 50, volume = 50, pitch = 50, rdn = 2  
+[2023/07/14 00:22:22 079] tts        273  auf=audio/L16;rate=16000  
+[2023/07/14 00:22:22 079] tts        273  auf=audio/L16;rate=16000  
+[2023/07/14 00:22:22 079] tts        499  ssb|use purextts  
+[2023/07/14 00:22:22 079] tts        406  purextts_session_begin  
+[2023/07/14 00:22:22 081] tts        416  audio_id=  1  
+[2023/07/14 00:22:22 082] tts        789  TTS_MSG_SYN  0  
+[2023/07/14 00:22:22 082] tts        532  synth|use purextts  
+[2023/07/14 00:22:22 082] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/14 00:22:22 082] tts        638  get audio|use purextts  
+[2023/07/14 00:22:22 082] tts        671  0  nil  1  19028608  
+[2023/07/14 00:22:22 083] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/14 00:22:22 083] tts        638  get audio|use purextts  
+[2023/07/14 00:22:22 083] tts        671  0  nil  1  19028608  
+[2023/07/14 00:22:22 083] tts        340  24005  0  
+[2023/07/14 00:22:22 083] tts        347  TTS_PUREXTTS_CB_END,  2  
+[2023/07/14 00:22:22 083] tts        340  24007  24005  
+[2023/07/14 00:22:22 083] tts        347  TTS_PUREXTTS_CB_END,  2  
+[2023/07/14 00:22:22 083] tts        792  TTS_MSG_GETAUDIO  24005  
+[2023/07/14 00:22:22 083] tts        795  TTS_MSG_SSE  
+[2023/07/14 00:22:22 083] tts        742  sse|use local  
+[2023/07/14 00:22:22 083] tts        761  audio_id=  2  
+[2023/07/14 00:22:22 084] tts        764  tts exit  

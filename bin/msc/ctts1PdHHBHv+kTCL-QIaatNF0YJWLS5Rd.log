@@ -1,0 +1,20 @@
+============================================================
+Time  2023/07/13 23:11:23 401 
+============================================================
+[2023/07/13 23:11:23 409] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(a40165e0) 
+[2023/07/13 23:11:23 410] config     43   use general cloud  
+[2023/07/13 23:11:23 411] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(a40165e0) 
+[2023/07/13 23:11:23 411] tts        782  TTS_MSG_SSB  
+[2023/07/13 23:11:23 411] tts        434  params =  engine_type = purextts,voice_name=xiaoyan, text_encoding = UTF8, tts_res_path = fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet, sample_rate = 16000, speed = 50, volume = 50, pitch = 50, rdn = 2  
+[2023/07/13 23:11:23 411] tts        273  auf=audio/L16;rate=16000  
+[2023/07/13 23:11:23 411] tts        273  auf=audio/L16;rate=16000  
+[2023/07/13 23:11:23 411] tts        499  ssb|use purextts  
+[2023/07/13 23:11:23 411] tts        406  purextts_session_begin  
+[2023/07/13 23:11:23 413] tts        416  audio_id=  1  
+[2023/07/13 23:11:23 414] tts        340  10116  0  
+[2023/07/13 23:11:23 414] tts        347  TTS_PUREXTTS_CB_END,  2  
+[2023/07/13 23:11:23 414] tts        789  TTS_MSG_SYN  10116  
+[2023/07/13 23:11:23 414] tts        795  TTS_MSG_SSE  
+[2023/07/13 23:11:23 414] tts        742  sse|use local  
+[2023/07/13 23:11:23 417] tts        761  audio_id=  2  
+[2023/07/13 23:11:23 417] tts        764  tts exit  

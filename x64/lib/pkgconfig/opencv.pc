@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=D:/code/opencv/build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir_old=${prefix}/include/opencv
+includedir_new=${prefix}/include
+
+Name: OpenCV
+Description: Open Source Computer Vision Library
+Version: 3.4.1
+Libs: -L${exec_prefix}/lib -lopencv_ml -lopencv_objdetect -lopencv_shape -lopencv_stitching -lopencv_superres -lopencv_videostab -lopencv_calib3d -lopencv_features2d -lopencv_highgui -lopencv_videoio -lopencv_imgcodecs -lopencv_video -lopencv_photo -lopencv_imgproc -lopencv_flann -lopencv_core
+Libs.private: -LD:/code/new_workspace/base_ecs_x64/libsylixos/Release -ldsohandle -L-LD:/code/new_workspace/base_ecs_x64/libsylixos/Release -LD:/code/new_workspace/base_ecs_x64/libsylixos/Debug -LD:/code/new_workspace/base_ecs_x64/libcextern/Release -LD:/code/new_workspace/base_ecs_x64/libcextern -lDebug -ldsohandle -lcextern -lstdc++ -lvpmpdm -lm -lgcc -lavcodec -lavformat -lavutil -lswscale
+Cflags: -I${includedir_old} -I${includedir_new}

@@ -1,0 +1,120 @@
+============================================================
+Time  2023/07/13 23:36:02 398 
+============================================================
+[2023/07/13 23:36:02 406] tts        811  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(300167f0) 
+[2023/07/13 23:36:02 407] config     43   use general cloud  
+[2023/07/13 23:36:02 408] tts_cloud  1438 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(300167f0) 
+[2023/07/13 23:36:02 408] tts        782  TTS_MSG_SSB  
+[2023/07/13 23:36:02 408] tts        434  params =  engine_type = purextts,voice_name=xiaoyan, text_encoding = UTF8, tts_res_path = fo|res/xtts/xiaoyan.jet;fo|res/xtts/common.jet, sample_rate = 16000, speed = 50, volume = 50, pitch = 50, rdn = 2  
+[2023/07/13 23:36:02 408] tts        273  auf=audio/L16;rate=16000  
+[2023/07/13 23:36:02 408] tts        273  auf=audio/L16;rate=16000  
+[2023/07/13 23:36:02 408] tts        499  ssb|use purextts  
+[2023/07/13 23:36:02 408] tts        406  purextts_session_begin  
+[2023/07/13 23:36:02 409] tts        416  audio_id=  1  
+[2023/07/13 23:36:02 409] tts        789  TTS_MSG_SYN  0  
+[2023/07/13 23:36:02 409] tts        532  synth|use purextts  
+[2023/07/13 23:36:02 409] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 409] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 409] tts        671  0  nil  1  16248135  
+[2023/07/13 23:36:02 409] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 409] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 409] tts        671  0  nil  1  16248135  
+[2023/07/13 23:36:02 410] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 410] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 410] tts        671  0  nil  1  16248135  
+[2023/07/13 23:36:02 410] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 410] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 410] tts        671  0  nil  1  16248135  
+[2023/07/13 23:36:02 410] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 410] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 410] tts        671  0  nil  1  16248136  
+[2023/07/13 23:36:02 410] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 410] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 410] tts        671  0  nil  1  16248136  
+[2023/07/13 23:36:02 410] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 410] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 410] tts        671  0  nil  1  16248136  
+[2023/07/13 23:36:02 411] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 411] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 411] tts        671  0  nil  1  16248136  
+[2023/07/13 23:36:02 411] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 411] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 411] tts        671  0  nil  1  16248137  
+[2023/07/13 23:36:02 411] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 411] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 411] tts        671  0  nil  1  16248137  
+[2023/07/13 23:36:02 411] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 411] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 411] tts        671  0  nil  1  16248137  
+[2023/07/13 23:36:02 412] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 412] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 412] tts        671  0  nil  1  16248137  
+[2023/07/13 23:36:02 412] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 412] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 412] tts        671  0  nil  1  16248137  
+[2023/07/13 23:36:02 412] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 412] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 412] tts        671  0  nil  1  16248137  
+[2023/07/13 23:36:02 412] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 412] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 412] tts        671  0  nil  1  16248138  
+[2023/07/13 23:36:02 412] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 412] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 412] tts        671  0  nil  1  16248138  
+[2023/07/13 23:36:02 413] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 413] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 413] tts        671  0  nil  1  16248138  
+[2023/07/13 23:36:02 413] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 413] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 413] tts        671  0  nil  1  16248138  
+[2023/07/13 23:36:02 413] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 413] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 413] tts        671  0  nil  1  16248138  
+[2023/07/13 23:36:02 413] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 413] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 413] tts        671  0  nil  1  16248139  
+[2023/07/13 23:36:02 413] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 413] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 413] tts        671  0  nil  1  16248139  
+[2023/07/13 23:36:02 413] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 413] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 413] tts        671  0  nil  1  16248139  
+[2023/07/13 23:36:02 414] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 414] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 414] tts        671  0  nil  1  16248139  
+[2023/07/13 23:36:02 414] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 414] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 414] tts        671  0  nil  1  16248139  
+[2023/07/13 23:36:02 414] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 414] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 414] tts        671  0  nil  1  16248140  
+[2023/07/13 23:36:02 415] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 415] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 415] tts        671  0  nil  1  16248140  
+[2023/07/13 23:36:02 415] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 415] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 415] tts        671  0  nil  1  16248141  
+[2023/07/13 23:36:02 415] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 415] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 415] tts        671  0  nil  1  16248141  
+[2023/07/13 23:36:02 416] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 416] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 416] tts        671  0  nil  1  16248141  
+[2023/07/13 23:36:02 416] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 416] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 416] tts        671  0  nil  1  16248141  
+[2023/07/13 23:36:02 416] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 416] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 416] tts        671  0  nil  1  16248142  
+[2023/07/13 23:36:02 416] tts        792  TTS_MSG_GETAUDIO  0  
+[2023/07/13 23:36:02 416] tts        638  get audio|use purextts  
+[2023/07/13 23:36:02 417] tts        671  0  nil  1  16248142  
+[2023/07/13 23:36:02 417] tts        340  10116  0  
+[2023/07/13 23:36:02 417] tts        347  TTS_PUREXTTS_CB_END,  2  
+[2023/07/13 23:36:02 417] tts        792  TTS_MSG_GETAUDIO  10116  
+[2023/07/13 23:36:02 417] tts        340  24007  10116  
+[2023/07/13 23:36:02 417] tts        347  TTS_PUREXTTS_CB_END,  2  
+[2023/07/13 23:36:02 417] tts        795  TTS_MSG_SSE  
+[2023/07/13 23:36:02 417] tts        742  sse|use local  
+[2023/07/13 23:36:02 417] tts        761  audio_id=  2  
+[2023/07/13 23:36:02 418] tts        764  tts exit  
